@@ -16,7 +16,7 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Mohsine Lakhlil",
     location: "Casablanca, Morocco 🇲🇦",
     education: "1337 Rabat (42 Network)",
     currentFocus: ["Full Stack Development", "Data Science", "AI/ML"],
