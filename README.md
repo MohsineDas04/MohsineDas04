@@ -96,25 +96,6 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsineDas04&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohsineDas04&repo=push_swap&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E)](https://github.com/MohsineDas04/push_swap)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohsineDas04&repo=PROJECT_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E)](https://github.com/MohsineDas04/PROJECT_NAME_2)
-
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
