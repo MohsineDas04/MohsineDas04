@@ -119,7 +119,7 @@ const developer = {
 
 <div align="center">
 
-### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💻 "Learn by doing, not just reading. Build first, master later. Code isn't a job—it's a lifestyle." – Me
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohsineDas04&color=20C20E&style=for-the-badge)
 
