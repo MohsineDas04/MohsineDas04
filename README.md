@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHello,%2BWorld!%2B%25F0%259F%2591%258B%3BFull%2BStack%2BDeveloper%3B1337%2B%252F%2B42%2BNetwork%2BStudent%3BAI%2B%2526%2BData%2BScience%2BEnthusiast" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHello,%2BWorld!%2B%25F0%259F%2591%258B%3BFull%2BStack%2BDeveloper%3B1337%2B%252F%2B42%2BNetwork%2BStudent%3BProblem%2BSolver%2B%2526%2BChallenge%2BSeeker" alt="Typing SVG" />
 
 <h3>🚀 1337 Student | Full Stack Developer | Future AI Engineer</h3>
 
@@ -17,11 +17,11 @@ Studying at <strong>1337 Rabat (42 Network)</strong>
 
 🎓 I am a Software Engineering student deeply rooted in the C programming philosophy of 42 Network.
 
+🧩 I have a deep passion for coding challenges and solving complex problems. I thrive on logic puzzles, algorithmic optimization, and finding efficient solutions.
+
 💻 I build scalable web applications using the MERN Stack (MongoDB, Express, React, Node.js).
 
 🧠 I am currently expanding my horizons into Data Science and AI, using Python to unlock the power of data.
-
-⚡ Fun fact: I love solving algorithmic challenges and optimizing code for efficiency.
 
 🛠️ Tech Stack
 
