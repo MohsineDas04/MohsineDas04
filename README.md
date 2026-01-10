@@ -1,83 +1,149 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHello,%2BWorld!%2B%25F0%259F%2591%258B%3BFull%2BStack%2BDeveloper%3B1337%2B%252F%2B42%2BNetwork%2BStudent%3BProblem%2BSolver%2B%2526%2BChallenge%2BSeeker" alt="Typing SVG" />
-
-<h3>🚀 1337 Student | Full Stack Developer | Future AI Engineer</h3>
-
-<p>
-Based in <strong>Casablanca, Morocco 🇲🇦</strong>
-
-
-
-
-Studying at <strong>1337 Rabat (42 Network)</strong>
-</p>
-</div>
-
-👨‍💻 About Me
-
-🎓 I am a Software Engineering student deeply rooted in the C programming philosophy of 42 Network.
-
-🧩 I have a deep passion for coding challenges and solving complex problems. I thrive on logic puzzles, algorithmic optimization, and finding efficient solutions.
-
-💻 I build scalable web applications using the MERN Stack (MongoDB, Express, React, Node.js).
-
-🧠 I am currently expanding my horizons into Data Science and AI, using Python to unlock the power of data.
-
-🛠️ Tech Stack
+# 👋 Hello, World!
 
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;1337+%2F+42+Network+Student+%F0%9F%8E%93;Problem+Solver+%26+Challenge+Seeker+%F0%9F%A7%A9;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- LANGUAGES -->
+### 🚀 Software Engineering Student | MERN Stack Developer | AI Enthusiast
 
-<h4 align="center">Languages</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
-
-<!-- FRONTEND -->
-
-<h4 align="center">Frontend</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" alt="NextJS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind" />
-
-<!-- BACKEND & DB -->
-
-<h4 align="center">Backend & Database</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-43853D%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="NodeJS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="ExpressJS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
-
-<!-- AI & TOOLS -->
-
-<h4 align="center">Data Science & AI (Loading...)</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="Numpy" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit_learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit" />
+📍 **Casablanca, Morocco** 🇲🇦 | 🎓 **1337 Rabat (42 Network)**
 
 </div>
 
-📈 GitHub Stats
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const developer = {
+    name: "Your Name",
+    location: "Casablanca, Morocco 🇲🇦",
+    education: "1337 Rabat (42 Network)",
+    currentFocus: ["Full Stack Development", "Data Science", "AI/ML"],
+    philosophy: "Clean code, elegant solutions, continuous learning",
+    
+    code: ["C", "JavaScript", "Python"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express.js", "MongoDB"],
+        tools: ["Git", "Docker", "VS Code", "Linux"],
+        learning: ["NumPy", "Pandas", "Scikit-learn", "TensorFlow"]
+    },
+    
+    challenge: "Building scalable solutions while exploring AI frontiers"
+};
+```
+
+### 🎯 What Drives Me
+
+- 🧩 **Problem Solving**: Passionate about algorithmic challenges and optimization
+- 💡 **Innovation**: Always exploring new technologies and best practices
+- 🌱 **Growth**: Currently diving deep into Data Science and Machine Learning
+- 🤝 **Collaboration**: Believer in open-source and knowledge sharing
+- 🏆 **Excellence**: Committed to writing clean, maintainable, and efficient code
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-<!-- CHANGE "YOUR_USERNAME_HERE" TO YOUR ACTUAL USERNAME -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME_HERE%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D20C20E%26icon_color%3D20C20E" height="180" alt="stats graph" />
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME_HERE%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D20C20E" height="180" alt="languages graph" />
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Data Science & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohsineDas04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsineDas04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-<!-- CHANGE "YOUR_USERNAME_HERE" TO YOUR ACTUAL USERNAME -->
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME_HERE%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D20C20E%26fire%3D20C20E%26currStreakLabel%3D20C20E" height="180" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsineDas04&theme=radical&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-<a href="mailto:your-email@student.1337.ma">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-handle">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohsineDas04&theme=react-dark&hide_border=true&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohsineDas04&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohsineDas04&repo=push_swap&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E)](https://github.com/MohsineDas04/push_swap)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohsineDas04&repo=PROJECT_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E)](https://github.com/MohsineDas04/PROJECT_NAME_2)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lakmoh2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsinelakhlil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohsineDas04&color=20C20E&style=for-the-badge)
+
+⭐️ From [MohsineDas04](https://github.com/MohsineDas04)
+
 </div>
