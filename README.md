@@ -82,15 +82,6 @@ const developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsineDas04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsineDas04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsineDas04&theme=radical&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohsineDas04&theme=react-dark&hide_border=true&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
