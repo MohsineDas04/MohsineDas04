@@ -22,7 +22,6 @@ Lately, my sweet spot has been bridging **software systems architecture** with *
 
 ```typescript
 const mohsine = {
-    pronouns: "he/him",
     base: ["Casablanca", "Rabat (1337 Campus)"],
     coreStack: ["C", "C++", "Python", "TypeScript", "JavaScript"],
     web: ["React", "Next.js", "Node.js", "Express", "Tailwind CSS", "MongoDB"],
