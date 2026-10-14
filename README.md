@@ -31,8 +31,7 @@ const mohsine = {
         "POSIX Multithreading & Concurrency",
         "Pathfinding & Graph Algorithms"
     ],
-    environment: ["Kubuntu Linux", "Fish Shell", "VS Code / Cursor", "uv", "Git"],
-    offTheClock: ["Goalkeeper on the pitch 🧤", "Chess ♟️", "Swimming 🏊‍♂️", "Moroccan Green Tea 🍵"]
+    environment: ["Kubuntu Linux", "Fish Shell", "VS Code / Cursor", "uv", "Git"]
 };
 ```
 
